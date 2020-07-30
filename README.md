@@ -1,5 +1,5 @@
 # JavaProjects
-These are simple projects I coded in Java during my spare time in my first Computer Science class in high school.
+These are simple, single-class projects I coded in Java during my spare time in my first Computer Science class in high school.
 I did them before I knew basically anything about Java, so for the most part they are each just a single class
 with nothing but a main method. However, they show how I was able to work through issues without knowledge of
 tools that would trivialize them.
